@@ -55,8 +55,8 @@ A comprehensive, machine learning-powered analysis tool for predicting global se
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/advanced-sea-level-predictor.git
-   cd advanced-sea-level-predictor
+   git clone https://github.com/Medamineelkhattabi/boilerplate-sea-level-predictor-main.git
+   cd boilerplate-sea-level-predictor-main
    ```
 
 2. **Create virtual environment** (recommended)
@@ -317,16 +317,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/advanced-sea-level-predictor/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/advanced-sea-level-predictor/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/Medamineelkhattabi/boilerplate-sea-level-predictor-main/issues)
 
 ## 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/advanced-sea-level-predictor?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/advanced-sea-level-predictor?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/advanced-sea-level-predictor)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/advanced-sea-level-predictor)
+![GitHub stars](https://img.shields.io/github/stars/Medamineelkhattabi/boilerplate-sea-level-predictor-main?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Medamineelkhattabi/boilerplate-sea-level-predictor-main?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Medamineelkhattabi/boilerplate-sea-level-predictor-main)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Medamineelkhattabi/boilerplate-sea-level-predictor-main)
 
 ---
 
